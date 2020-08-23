@@ -11,9 +11,12 @@ You have to just look the template that consist the code snippets and edit your 
 - Go to folder Day 1 -> index.html.
 - As soon as you will open index.html, you will find edit this file icon.
 - Click edit the file icon.
+- Download index.html file.
 - Do the required changes in the code by filling your details.
-- At the end of the same page, you will find the Commit Changes dialog box.
-- Type the commit message "UPDATED <YOUR_NAME> Details".
+- Save your file with your name like 'YOURNAME.html'.
+- Now go to the DAY1 folder.
+- Now at the top right corner you will find a upload button(ADD FILE), upload your file in DAY1 folder.
+- Type the commit message "ADDED <YOUR_NAME> Details".
 - Click on commit changes button given below.
 - After committing changes you will find green icon Create Pull Request.
 - Click on that icon and a dialog box appears.
