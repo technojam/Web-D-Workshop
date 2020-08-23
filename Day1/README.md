@@ -8,14 +8,11 @@ You have to just look the template that consist the code snippets and edit your 
 
 ### Steps to follow(BY GITHUB)
 - Fork a GitHub repository by clicking on the fork button present at top right.
+- Go to folder Day 1 -> create a new file with yourname like yourname.html
 - Go to folder Day 1 -> index.html.
-- As soon as you will open index.html, you will find edit this file icon.
-- Click edit the file icon.
-- Download index.html file.
+- Copy the template from index.html or you can make your template if you want.
+- Paste the code from index.html to yourname.html file.
 - Do the required changes in the code by filling your details.
-- Save your file with your name like 'YOURNAME.html'.
-- Now go to the DAY1 folder.
-- Now at the top right corner you will find a upload button(ADD FILE), upload your file in DAY1 folder.
 - Type the commit message "ADDED <YOUR_NAME> Details".
 - Click on commit changes button given below.
 - After committing changes you will find green icon Create Pull Request.
@@ -30,7 +27,12 @@ You have to just look the template that consist the code snippets and edit your 
  ```sh
                 $ git clone remote repository url
  ```
- - Add a Git remote for the original repository.
+ - Go to folder Day 1 -> create a new file with yourname like yourname.html
+ - Go to folder Day 1 -> index.html.
+ - Copy the template from index.html or you can make your template if you want.
+ - Paste the code from index.html to yourname.html file.
+ - Do the required changes in the yourname.html by filling your details.
+ - Type the commit message "ADDED <YOUR_NAME> Details".
  - Make your changes to the master branch.
  - Commit the changes to the branch.
  - Push the branch to GitHub.
