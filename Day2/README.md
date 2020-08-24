@@ -8,7 +8,7 @@ Want to contribute? Great:heart:
 ### Changes to do
 You have to just look the template that consist the source code snippet and edit your details and you are good to go.
 
-### Steps to follow(BY GITHUB)
+### Steps to follow
 - Fork a GitHub repository by clicking on the fork button present at top right.
 - Go to folder Day 2 -> Click on ADD FILE option -> Create New File.
 - Create a new file with "your_name.html" like isha.html.
